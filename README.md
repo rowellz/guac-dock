@@ -6,7 +6,7 @@ Once running, you can access the application at localhost:8088/guacamole.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/guac-dock.git
+git clone https://github.com/rowellz/guac-dock.git
 cd guac-dock
 ```
 
